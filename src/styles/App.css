@@ -101,7 +101,7 @@
     font-family             : var(--font-content);
 }
 .work-experience > div {
-    margin-bottom: 1rem;
+    margin-bottom           : 1rem;
 }
 .work-experience > h2 {
     font-family             : var(--font-subheader);

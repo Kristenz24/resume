@@ -15,8 +15,8 @@
 
 /* CUSTOM SELECTION COLOR */
 ::selection {
-    background-color: var(--clr-bg);
-    color: var(--clr-light);
+    background-color        : var(--clr-bg);
+    color                   : var(--clr-light);
 }
 
 /* RESET */
