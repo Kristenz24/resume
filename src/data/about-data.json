@@ -1,0 +1,32 @@
+{
+    "headers": [
+        "Contact", 
+        "Education", 
+        "Skills"
+    ],
+    "email": "kristenzmingoy@gmail.com",
+    "phone-number": "0929-066-3791",
+    "address": "Pampanga, Philippines",
+    "socials": [ 
+        "LinkedIn", 
+        "Github"
+    ],
+    "degree": "Bachelor of Science",
+    "field": "Information Technology",
+    "school-name": "University of the Assumption",
+    "school-year": "2022 - 2026",
+    "school-address": "San Fernando, Pampanga",
+    "skills": [ 
+        "HTML", 
+        "CSS", 
+        "JavaScript", 
+        "SQL", 
+        "Python", 
+        "Java", 
+        "React", 
+        "React Native", 
+        "Figma", 
+        "Node" 
+    ]
+}
+   

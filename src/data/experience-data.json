@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "position": "Junior Front-End Developer",
+            "company": "Google",
+            "date": "2021 - 2022",
+            "location": "Mountain View, CA",
+            "descriptions": [
+            "Developed responsive and interactive UI components using React, improving user experience on various platforms.",
+            "Implemented client-side optimizations to enhance application performance and reduce load times.",
+            "Collaborated with UX/UI designers to translate design prototypes into functional and visually appealing web pages.",
+            "Assisted in integrating front-end components with back-end services via RESTful APIs."
+            ]
+        },
+        {
+            "position": "Mid-Level Front-End Developer to Full-Stack Developer",
+            "company": "Microsoft",
+            "date": "2022 - 2023",
+            "location": "Redmond, WA",
+            "descriptions": [
+            "Transitioned from front-end development to full-stack by incorporating server-side technologies such as Node.js and Express.",
+            "Led the migration of front-end codebases to modern frameworks like Angular, enhancing maintainability and scalability.",
+            "Built and deployed scalable microservices on Azure, bridging the gap between front-end and back-end development",
+            "Developed CI/CD pipelines using Azure DevOps, automating testing and deployment processes."
+            ]
+        },
+        {
+            "position": "Senior Full-Stack Developer",
+            "company": "Amazon",
+            "date": "2023 - current",
+            "location": "Seattle, WA",
+            "descriptions": [
+            "Architected and implemented a full-stack e-commerce platform using Next.js for front-end and AWS Lambda for serverless back-end functions.",
+            "Enhanced the application’s performance and scalability by leveraging serverless architecture and optimizing API endpoints.",
+            "Mentored junior developers, providing guidance on both front-end and back-end best practices and code reviews.",
+            "Improved database performance and integration, achieving a 40% reduction in application load times through optimized queries and efficient data handling."
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

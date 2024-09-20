@@ -1,0 +1,131 @@
+/* ROOT CONTAINER */
+#root {
+    background-color        : var(--clr-bg);
+    width                   : 100%;
+    height                  : 150vh;
+    display                 : flex;
+    flex-direction          : column;
+    align-items             : center;
+    padding: 3rem 0rem;
+}
+
+#root > * {
+    width                   : 800px;
+}
+
+/* HEADER */
+.header-container {
+    text-align              : center;
+    padding                 : 2rem 0;
+    background-color        : var(--clr-header);
+    color                   : var(--clr-light);
+    text-transform          : uppercase;
+    font-family             : var(--font-header);
+}
+
+.header-container > h1 {
+    font-size               : 3rem;
+    letter-spacing          : .3rem;
+}
+
+.header-container > p {
+    font-size               : 1.2rem;
+    font-weight             : 700;
+    letter-spacing          : .1rem;
+}
+
+/* CONTENT CONTAINER*/
+.content-container {
+    background-color        : var(--clr-light);
+    display                 : flex;
+}
+
+.about {
+    padding                 : 1rem 2rem;
+    background-color        : var(--clr-about-bg);
+    min-width               : 200px;
+    display                 : flex;
+    flex-direction          : column;
+    align-items             : flex-end;
+    gap                     : 2rem;
+}
+
+/* ABOUT SUB CONTAINERS */
+.about > * > h2 {
+    font-family             : var(--font-subheader);
+    font-weight             : 700;
+    text-transform          : uppercase;
+    font-size               : 1.3rem;
+}
+
+.about > * > p {
+    font-family             : var(--font-content);
+    font-size               : .8rem;
+    color                   : var(--clr-content);
+    font-weight             : 500;
+}
+
+.about > .contact > p > i {
+    color                   : var(--clr-icons);
+}
+
+.about > .contact > span > i {
+    color                   : var(--clr-icons);
+}
+
+.about > * > span {
+    display                 : block;
+}
+
+.about > * > span > a {
+    font-family             : var(--font-content);
+    font-size               : .9rem;
+    color                   : var(--clr-link);
+    font-weight             : 600;
+}
+
+.about > * {
+    text-align              : right;
+}
+
+.contact i {
+    display                 : inline-block;
+    margin-left             : .5rem;
+    font-size               : .9rem;
+}
+
+/* WORK EXPERIENCE CONTAINER */
+.work-experience {
+    padding                 : 1rem 2rem 3rem;
+    color                   : var(--clr-bg);
+    font-family             : var(--font-content);
+}
+.work-experience > div {
+    margin-bottom: 1rem;
+}
+.work-experience > h2 {
+    font-family             : var(--font-subheader);
+    font-weight             : 700;
+    text-transform          : uppercase;
+    font-size               : 1.3rem;
+}
+
+.work-experience > div > h3 {
+    font-family             : var(--font-content);
+    font-weight             : 400;
+    color                   : var(--clr-content);
+}
+
+.work-experience > div > p {
+    color                   : var(--clr-content);
+}
+
+.work-experience > div > ul {
+    margin-bottom           : 1rem;
+}
+
+.work-experience > div > ul > li {
+    color                   : var(--clr-content);
+    margin-left             : 2rem;
+    font-size               : .9rem;
+}

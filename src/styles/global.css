@@ -1,0 +1,42 @@
+/* FONT IMPORT */
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto+Slab:wght@100..900&display=swap');
+
+/* CUSTOM SCROLLBAR */
+::-webkit-scrollbar { 
+    width                   : .3rem; 
+}
+::-webkit-scrollbar-track { 
+    background              : var(--clr-bg); 
+}
+::-webkit-scrollbar-thumb { 
+    background              : var(--clr-content);
+    border-radius           : 1rem; 
+}
+
+/* CUSTOM SELECTION COLOR */
+::selection {
+    background-color: var(--clr-bg);
+    color: var(--clr-light);
+}
+
+/* RESET */
+* {
+    box-sizing              : border;
+    margin                  : 0;
+    padding                 : 0;
+}
+
+/* GLOBAL VARIABLES */
+:root {
+    --clr-header            : #338078;
+    --clr-content           : #777777;
+    --clr-light             : #FCFCFD;
+    --clr-bg                : #0E0E0E;
+    --clr-about-bg          : #F7F7F7;
+    --clr-link              : #53A4FC;
+    --clr-icons             : #AAAAAA;
+    
+    --font-header           : "Gowun Batang", serif;
+    --font-subheader        : "Roboto Slab", serif;
+    --font-content          : "Open Sans", sans-serif;
+}
