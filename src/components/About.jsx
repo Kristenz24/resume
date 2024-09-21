@@ -8,8 +8,7 @@ export default function About() {
                 <h2> {about_data.headers[0]} </h2>
                 <p> {about_data.email} <i className="fa-solid fa-envelope"></i> </p>
                 <p> {about_data['phone-number']} <i className="fa-solid fa-phone"></i> </p>
-                <p> {about_data.address}  <i className="fa-solid fa-location-dot"></i> 
-                </p>
+                <p> {about_data.address}  <i className="fa-solid fa-location-dot"></i> </p>
                 <span>
                     <a href="https://www.linkedin.com/in/kristenz-mingoy-644885292/" target='_blank'> {about_data.socials[0]} </a> 
                     <i className="fa-brands fa-linkedin"></i>
