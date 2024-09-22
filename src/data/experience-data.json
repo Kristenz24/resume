@@ -1,39 +1,39 @@
 {
     "data": [
         {
-            "position": "Junior Front-End Developer",
-            "company": "Google",
-            "date": "2021 - 2022",
-            "location": "Mountain View, CA",
+            "college-year": "First Year College",
+            "school-name": "University of the Assumption",
+            "school-year": "2022- 2023",
+            "location": "San Fernando, Pampanga",
             "descriptions": [
-            "Developed responsive and interactive UI components using React, improving user experience on various platforms.",
-            "Implemented client-side optimizations to enhance application performance and reduce load times.",
-            "Collaborated with UX/UI designers to translate design prototypes into functional and visually appealing web pages.",
-            "Assisted in integrating front-end components with back-end services via RESTful APIs."
+            "Designed and architected a mockup redesign of the University of the Assumption website using Figma as my primary design tool.",
+            "Collaborated with other students to develop a Pacman theme quiz game for our midterm requirement on one of our programming subject using Python and Kivy as our primary language.",
+            "Developed an IoT security device that detects a motion, captures an image and sends it to your personal email using Python and other Python libraries.",
+            "Used Codechum to actively learn and explore Python syntax and different coding practices."
             ]
         },
         {
-            "position": "Mid-Level Front-End Developer to Full-Stack Developer",
-            "company": "Microsoft",
-            "date": "2022 - 2023",
-            "location": "Redmond, WA",
+            "college-year": "Second Year College",
+            "school-name": "University of the Assumption",
+            "school-year": "2023 - 2024",
+            "location": "San Fernando, Pampanga",
             "descriptions": [
-            "Transitioned from front-end development to full-stack by incorporating server-side technologies such as Node.js and Express.",
-            "Led the migration of front-end codebases to modern frameworks like Angular, enhancing maintainability and scalability.",
-            "Built and deployed scalable microservices on Azure, bridging the gap between front-end and back-end development",
-            "Developed CI/CD pipelines using Azure DevOps, automating testing and deployment processes."
+            "Transitioned from Python to Java and developed basic systems such as calculating the minimum fare of a tricycle based on the destination kilometers from point A to point B.",
+            "Learned how to developed a database and how to query using MySQL and XAMPP.",
+            "Transitioned from Java to Web Development with HTML, CSS and JavaScript.",
+            "Passed on Information Technology Specialist Databases exam."
             ]
         },
         {
-            "position": "Senior Full-Stack Developer",
-            "company": "Amazon",
-            "date": "2023 - current",
-            "location": "Seattle, WA",
+            "college-year": "Third Year College",
+            "school-name": "University of the Assumption",
+            "school-year": "2024 - current",
+            "location": "San Fernando, Pampanga",
             "descriptions": [
-            "Architected and implemented a full-stack e-commerce platform using Next.js for front-end and AWS Lambda for serverless back-end functions.",
-            "Enhanced the application’s performance and scalability by leveraging serverless architecture and optimizing API endpoints.",
-            "Mentored junior developers, providing guidance on both front-end and back-end best practices and code reviews.",
-            "Improved database performance and integration, achieving a 40% reduction in application load times through optimized queries and efficient data handling."
+            "Developed my own portfolio website as my prelim examination requirement for Mobile and Web Development subject and used HTML, CSS and JavaScript as my primary tools and language.",
+            "Actively learning on my Free Elective subject to follow best practices and optimize my code in terms of load times and code formatting.",
+            "Utilized Bootstrap on Mobile and Web Development subject to enhance and reduce the lines of code on my CSS stylesheet.",
+            "Transitioned from normal vanilla JavaScript into it's frameworks and libraries such as NEXT.js and React.js."
             ]
         }
     ]

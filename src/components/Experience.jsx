@@ -1,9 +1,9 @@
 export default function Experience({objExperience}) {
     return(
         <div>
-            <h3>{objExperience.position}</h3>
-            <p>{objExperience.company}</p>
-            <p>{objExperience.date} / {objExperience.location}</p>
+            <h3>{objExperience['college-year']}</h3>
+            <p>{objExperience['school-name']}</p>
+            <p>{objExperience['school-year']} / {objExperience.location}</p>
             <ul>
                 <li>{objExperience.descriptions[0]}</li>
                 <li>{objExperience.descriptions[1]}</li>

@@ -10,7 +10,7 @@ export default function Content() {
             </section>
 
             <section className='work-experience'>
-                <h2>Work Experience</h2>
+                <h2>College Experience</h2>
                 <Experience objExperience={experience_data.data[2]} />
                 <Experience objExperience={experience_data.data[1]} />
                 <Experience objExperience={experience_data.data[0]} />
