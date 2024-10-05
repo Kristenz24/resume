@@ -21,7 +21,6 @@
 
 /* RESET */
 * {
-    box-sizing              : border;
     margin                  : 0;
     padding                 : 0;
 }
